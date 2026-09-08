@@ -36,13 +36,8 @@ because that's what ended up working reliably on the breadboard after some troub
 
 ## Demo
 
-**Circuit and button presses:**
-
 https://github.com/user-attachments/assets/demo_circuit.mp4
 
-**Serial Monitor output:**
-
-https://github.com/user-attachments/assets/demo_serial.mp4
 
 ## Code
 
