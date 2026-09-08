@@ -32,7 +32,7 @@ because that's what ended up working reliably on the breadboard after some troub
 
 ## Circuit
 
-![Circuit photo](circuit_photo.jpg)
+![Circuit photo](circuit_photo.jpeg)
 
 ## Demo
 
