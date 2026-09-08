@@ -36,7 +36,7 @@ because that's what ended up working reliably on the breadboard after some troub
 
 ## Demo
 
-https://github.com/user-attachments/assets/demo_circuit.mp4
+https://github.com/user-attachments/assets/reflex_tester_demo.mp4
 
 
 ## Code
